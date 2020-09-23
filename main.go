@@ -10,8 +10,6 @@ import (
 	"github.com/auth0-community/go-auth0"
 	"github.com/gin-gonic/gin"
 	jose "gopkg.in/square/go-jose.v2"
-
-	"github.com/friedricj/golang-auth0-example/handlers"
 )
 
 var (
