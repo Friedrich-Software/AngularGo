@@ -1,0 +1,21 @@
+# 1. Download and install Download and install Go for windows
+
+https://golang.org/doc/install?download=go1.15.2.windows-amd64.msi
+
+
+# 2. Check go version
+ go version
+
+# 3. cd in todo folder
+
+cd /c/github/Friedrich-Software/AngularGo/todo
+
+
+ # Install all project dependancies
+ go get ./...
+
+https://github.com/golang/vscode-go
+
+
+# https://subscription.packtpub.com/book/application_development/9781789618501/1 
+https://subscription.packtpub.com/book/application_development/9781789618501/1
